@@ -39,7 +39,7 @@ Podfile の編集ができたら、`pod install` コマンドを実行してラ�
 ## Firebase プロジェクトへの接続設定
 
 次にこちらで用意した Firebase プロジェクトにアプリから接続するための設定を行います。
-~~~GoogleService-Info.plist ファイルをここからダウンロードしてください。 ~~~
+~~GoogleService-Info.plist ファイルをここからダウンロードしてください。~~
 
 **注: インターン当日では講師が予め用意しておいた Firebase プロジェクトに接続できるよう GoogleService-Info.plist ファイルを配布していました。この資料をもとに課題をなぞって学習する場合は、 Realtime Databae を利用できる Firebase プロジェクトを自分で用意する必要があります。ここで具体的な手順を説明するつもりはありません。 Firebase 公式サイトをご覧ください。**
 
