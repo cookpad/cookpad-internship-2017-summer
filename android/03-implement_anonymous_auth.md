@@ -9,8 +9,10 @@ Androidアプリでは`build.gradle`ファイルでFirebaseライブラリの利
 以下のファイルをダウンロードし、好きな場所に展開して下さい。
 
 〜補足〜
+
 実際のインターンではここでFirebase導入済みのAndroidプロジェクトを配布していました。
-配布プロジェクトではFirebase導入、画像リソースの追加や[]画像リソースを名前で扱うための実装](source/ImageUtils.java)も含まれていました。
+配布プロジェクトではFirebase導入、画像リソースの追加や[画像リソースを名前で扱うための実装](source/ImageUtils.java)も含まれていました。
+
 〜補足終わり〜
 
 次に、Android Studioで展開したプロジェクトファイルを開きます。
