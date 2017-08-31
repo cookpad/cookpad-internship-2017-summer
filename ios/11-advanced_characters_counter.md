@@ -9,7 +9,9 @@
 
 ## 画面例
 
-|<img src="./images/20170801080012_img20170801-15-9w3roh.png" width="50%" /> | <img src="./images/20170801080029_img20170801-22-nhu5vr.png" width="50%" /> |
+|文字数カウンタ例|文字数超過アラート|
+|---|---|
+|<img src="./images/20170801080012_img20170801-15-9w3roh.png" /> | <img src="./images/20170801080029_img20170801-22-nhu5vr.png" /> |
 
 ## ヒント
 
