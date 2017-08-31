@@ -9,7 +9,9 @@
 
 ## 画面例
 
-| <img src="./images/20170801080246_img20170801-13-1i31fec.png" width="50%" /> | <img src="./images/20170801080259_img20170801-22-1u90t2y.png" width="50%" /> | <img src="./images/20170801080316_img20170801-18-1or78q7.png" width="50%" /> |
+|URL付き投稿|URL添付|URL添付後|
+|---|---|---|
+| <img src="./images/20170801080246_img20170801-13-1i31fec.png" /> | <img src="./images/20170801080259_img20170801-22-1u90t2y.png" /> | <img src="./images/20170801080316_img20170801-18-1or78q7.png" /> |
 
 ## ヒント
 
