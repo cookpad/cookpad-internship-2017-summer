@@ -52,7 +52,7 @@ FirebaseはGoogleが提供しているマルチプラットフォーム対応の
 例えば、Realtime Database の`/data`階層以下にデータを書き込む場合、以下のような1行だけで表現可能です。
 
 ```java
-FirebaseDatabase.getInstance().child("data")getReference().setValue(data);
+FirebaseDatabase.getInstance().child("data").getReference().setValue(data);
 ```
 
 このように Realtime Database は簡単に読み書きができる反面、通常のSQLのような異なる階層データの結合やサブクエリを表現することは難しくなっています。
